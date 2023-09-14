@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">И я начинающий Frontend-разработчик из России 🇷🇺</h3>
 
-Сертификат обучения от Нетологии [сертификат](https://github.com/naviforce/naviforce/files/12610066/certificate.pdf)
+Сертификат обучения от Нетологии [тык](https://github.com/naviforce/naviforce/files/12610066/certificate.pdf)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naviforce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
