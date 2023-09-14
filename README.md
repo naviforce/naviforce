@@ -1,8 +1,8 @@
-### Привет! Меня зовут Дмитрий Секретарев и я начинающий Frontend-разработчик 👋
 <h1 align="center">Привет всем! <a href="https://daniilshat.ru/" target="_blank">меня зовут Dmitriy Sekretarev</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">И я начинающий Frontend-разработчик из России 🇷🇺</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naviforce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
