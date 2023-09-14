@@ -1,4 +1,4 @@
-<h1 align="center">Привет всем! Меня зовут <a href="https://daniilshat.ru/" target="_blank">Dmitriy Sekretarev</a> 
+<h1 align="center">Привет всем! Меня зовут <a href="https://github.com/naviforce" target="_blank">Dmitriy Sekretarev</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">И я начинающий Frontend-разработчик из России 🇷🇺</h3>
 
